@@ -1,0 +1,4 @@
+slock.col_init: black
+slock.col_input: #005577
+slock.col_failed: #cc3333
+!slock.col_caps: red
